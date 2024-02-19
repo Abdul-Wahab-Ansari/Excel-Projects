@@ -20,7 +20,7 @@ The Client Management Tool is a spreadsheet-based solution for managing client i
 Data validation for accurate data entry
 Formulas for automatic calculations and status updates
 Communication log for tracking interactions with clients
-
+```
 ## Budget Planning Workbook
 
 ### Overview
