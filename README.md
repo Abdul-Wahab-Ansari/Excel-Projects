@@ -1,7 +1,7 @@
 # Excel Projects
 This repository contains a collection of Excel projects aimed at various business needs. Each project is designed to demonstrate proficiency in Excel and address specific challenges commonly encountered in business operations.
 
-## Sales Analysis Dashboard
+## 1. [Sales Analysis Dashboard](https://github.com/Abdul-Wahab-Ansari/Excel-Projects/tree/main/Sales_Analysis)
 
 ### Overview
 The Sales Analysis Dashboard is a tool designed to track sales performance metrics such as revenue, profit margin, and top-selling products. It utilizes pivot tables, charts, and conditional formatting to present the data in an easy-to-understand format.
@@ -11,7 +11,7 @@ Pivot tables for dynamic data analysis
 Charts for visual representation of sales metrics
 Conditional formatting to highlight key insights
 
-## Client Management Tool
+## 2. [Client Management Tool](https://github.com/Abdul-Wahab-Ansari/Excel-Projects/tree/main/Client%20Management%20Tool)
 
 ### Overview
 The Client Management Tool is a spreadsheet-based solution for managing client information, including contact details, project status, and communication history. It utilizes data validation and formulas to ensure accuracy and efficiency in tracking client interactions.
