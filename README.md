@@ -20,7 +20,8 @@ The Client Management Tool is a spreadsheet-based solution for managing client i
 Data validation for accurate data entry
 Formulas for automatic calculations and status updates
 Communication log for tracking interactions with clients
-``
+
+<!--
 ## Budget Planning Workbook
 
 ### Overview
@@ -100,4 +101,4 @@ The Marketing Campaign Analytics tool is designed to analyze the effectiveness o
 Key metric tracking for assessing campaign effectiveness
 Interactive dashboards for visualizing campaign performance
 Optimization opportunities identification for improving campaign
-``
+-->
